@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zamlyrics
 - 👀 I’m interested in web developing, ios and android app development.
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on real world projectz, and cool apps.
+- 💞️ I’m looking to collaborate on real world projectz, 
 - 📫 How to reach me +260972846002 / https://www.youtube.com/@zamlyric
 
 <!---
